@@ -1,10 +1,10 @@
-# WeRateDogs_Wrangle_Project
+# Wrangle-Project---WeRate-Dogs
 
 ## Project Overview
 
 ### Introduction
 
-The objective of this data wrangling project is to gather different data from a variety of sources in a variety of formats, assess its quality and tidiness, then clean it. For this project I used the Python programming language and some other Python libraries. You will get more details on this as you continue with this documentaion.
+The objective of this data wrangling project is to gather different data from a variety of sources in a variety of formats, assess its quality and tidiness, then clean it. For this project I used the Python programming language and some other Python libraries. You will get more details on this as you continue with this documentation.
 
 ### Dataset Overview
 
@@ -29,6 +29,3 @@ In the course of this project, I did some gathering of datasets, and cleaning of
 * Numpy
 * Matplotlib.pyplot
 * Seaborn
-
-
-
